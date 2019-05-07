@@ -12,6 +12,6 @@ class Hello {
 
     public function index()
     {
-        return "Hello, " . $this->name;
+        return "Hello,  " . $this->name;
     }
 }
