@@ -3,4 +3,4 @@ php:
  - 7.1
  install:
   - composer install --no-interaction
-  - ./vendor/bin/phpunit tests/
+  - "vendor/bin/phpunit" tests/HelloTest.php
